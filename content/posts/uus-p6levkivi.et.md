@@ -63,3 +63,4 @@ Targad energiavõrgud, energia salvestusseadmed ja energiasõltumatus läbi uue 
 
 Kõik see toob ka Ida-Virumaale uusi inimesi — raiudes läbi taastuvenergia Gordioni sõlme lahenevad ka kõik ülejäänud siinsed probleemid. Meil pole aastakümneid oodata, vaid pööre avatud taristule tuleb teha kohe, sest siis saab sellest kasu lõigata.
 
+_Vaata ka: «[Решить проблему сланцевой экономики за десять лет](http://prospekt.ee/events/12279-zelenye-estonii-428-mrt-pder-ida-virumaa.html)» (Виру Проспект)_
