@@ -88,7 +88,7 @@ Alustuseks mõned taustafaktid:
 
 * Euroopa üldise andmekaitsemääruse ehk GDPRi suhtes on olnud IT-ringkonnad ja valitsus üldiselt vaenulikult meelestatud. Määrust Eesti seadusse kandvad sätted laagerdusid Riigikogus pikalt ning [hakkasid lõpuks kehtima alles kuu aja eest 15. jaanuaril](https://triniti.ee/iks-seadus-mida-tuleb-lugeda-koos-maarusega/), kuigi EL poolt pidid need kehtima hakkama juba 25. mail 2018. Määruse lõpptekst oli Euroopa Liidu teatajas avaldatud juba 2016.
 
-* Meie e-hääletuse juures [pigistatakse jätkuvalt silma kinni kollektiivse hääletamise probleemi ees](https://youtu.be/FqZYbjsA1E0), kuigi selle lahendamine seadusandluse, hääletustarkvara ja teavituskampaania abil oli [esimene ja kõige olulisem asi asi, mille lahendamisest hinnati meie projekti edukust sõltuvat](https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1023&context=auilr).
+* Meie e-hääletuse juures [pigistatakse jätkuvalt silma kinni kollektiivse hääletamise probleemi ees](https://novaator.err.ee/597402/tahelepanuvaart-leid-eesti-perekonnad-e-haaletavad-tihtipeale-koos), kuigi selle lahendamine seadusandluse, hääletustarkvara ja teavituskampaania abil oli [esimene ja kõige olulisem asi asi, mille lahendamisest hinnati meie projekti edukust sõltuvat](https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1023&context=auilr).
 
 * Meie riikliku jälitustegevuse maht on hämmastav, see muudkui kasvab ning [mitte keegi pole suutnud ametiasutusi ega poliitikuid veenda, et seda muuta](https://www.err.ee/862981/uno-lohmus-kolm-suurt-probleemi-kodanike-jalgimisega) — või vähemalt, et jälitustegevuse statistika tehtaks detailselt kättesaadavaks, et see võiks olla aluseks argumenteerimisel regulatsiooni paremaks kujundamiseks. 
 
