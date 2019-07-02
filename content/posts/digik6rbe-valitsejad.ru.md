@@ -1,0 +1,1 @@
+digik6rbe-valitsejad.et.md

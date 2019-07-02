@@ -1,0 +1,85 @@
+---
+author: Märt Põder
+categories:
+  - valimised
+  - e-hääletus
+  - rikutud sedel
+disableComments: true
+image: images/kryptogramm.jpg
+date: 2015-03-02 06:15:00
+title: Kuidas ma e-valimisi otsast natuke häkkisin
+slug: minu-evalimised
+description: Enamik valijatest ei adu ilmselt üldse, kuidas e-hääletamine tehniliselt korraldatud on, suurem jagu 176 491 valijast on lihtsalt valijarakenduse usaldavad kliendid. Kuna valijarakendus e-sedeli rikkumist ei võimalda, siis on selline tegevus pigem väheste nutikamate privileeg. Miks ma 2015. aasta Riigikogu valimistel seda privileegi kasutada otsustasin? Kohe seletan.
+---
+
+Iseenesest on sedeli rikkumine täiesti ratsionaalne valijakäitumine. Kui demokraatiamasin ei genereeri nimekirjadesse ühtegi valijale sobivat kandidaati, siis saab sellest märku anda sedelit rikkudes. Isegi kui tahta sedeli rikkumist mingil moralistikul kaalutlusel keelata, siis ei oleks seda praegu kuidagi võimalik teha, sest sellega kaasneks omakorda hääle salajasuse põhimõtte tühistamine.
+
+E-sedelit on Eesti e-valimiste ajaloos varem sihipäraselt rikutud ainult üks kord ja see oli 2013. aasta KOV valimistel. Võrdluseks, pabersedelitega sektsioonis on olnud rikkujaid alati mitmeid tuhandeid. Seekordsetel valimistel olin mina esialgse info põhjal ainus e-sedeli rikkuja.
+
+Kuigi valijarakendus ei näe sedeli rikkumise võimalust ette, siiski on see sisse kirjutatud nii valimisseadusse kui ka e-hääletamise tehnilisse protokolli. Kas see paneb tavapärase jaoskonnas hääletaja ja e-hääletaja nii ebavõrdsesse olukorda, et see võib mõjutada ka valimistulemust, on eraldi küsimus, aga kahtlemata näitab kohati umbes 5000-kordne vahe, et see on üks tähelepanuväärseid tunnuseid, mis e-hääletamist pabervalimistest eristab.
+
+## Sedeli rikkumise põhjused
+
+Esimene põhjus e-sedeli rikkumiseks oligi näidata, et niisugune piirang valijarakenduses on kui mitte ebaõiglane, siis vähemasti problemaatiline. Miks eeldatakse, et ma ei taha sedeli rikkumise võimalust kasutada, ja mis õigusega piiratakse mu vabadust oma tahet väljendada?
+
+Teine põhjus oli sobiva kandidaadi puudumine. Ma olen vaadetelt midagi krüptoanarhisti ja telekommunisti vahepealset, lisaks piraadiliikumise aktivist. Ma oleks oodanud, et pärast Snowdeni mastaapseid paljastusi Interneti lausjälgimise kohta võtavad privaatsuse teemad oma programmidesse vähemasti mõned parlamendivälised jõud, aga programme lugedes leidsin selle põgusalt üksnes Reformierakonna programmis. Reformierakond lubas aga sama soojaga tugevdada võitlust piraatlusega Internetis, mis olevat nende jaoks ühtlasi rahvusliku julgeoleku küsimus. Vabandust, aga see ei ole usutav kombinatsioon!
+
+Sotsiaaldemokraadid, kes püüavad end sageli näidata inimõiguste eestkõnelejatena, olid privaatsuse teema üldse unustanud. Rääkimata sellest, et Mikser on erakonna esimehena kinnitanud, et tema küll ei näe mingit põhjust anda poliitilist varjupaika ulatuslikud inimõiguste rikkumised paljastanud Snowdenile. Piinlik.
+
+Oleksin küll võinud anda hääle mõnele sõbrale või tuttavale, et mul oleks pärast valimisi mugav kellelegi helistada ja muret kurta, aga see pole minu arusaam sellest, kuidas poliitika peaks avatumaks muutuma ja pakkuma kodanikele võimalusi sisukamaks osalemiseks.
+
+## Julge pöördprojekteerija rind on rasvane
+
+Niisiis, paar tundi enne e-hääletuse lõppu jõudsin otsusele. Võtsin ette valijarakenduse, panin selle käima silumisrežiimis ning hakkasin uurima, mida selle rakendusega teha annab. Panin rakenduse õigetel hetkedel pausile, uurisin mälupilti ja vaatasin, mis juhtub, kui laivis muudatusi teha. Võtsin häki edukuse peamiseks indikaatoriks, missugune on hääle kontrollimise rakenduse tagasiside mu tehtud muutustele valijarakenduse mälupildis. Tunnikese pusimise järel saingi tulemuseks veateate: "Valiku tuvastamine krüptogrammist ebaõnnestus."
+
+{{< twitter 570625243527716864 >}}
+
+Tasub panna tähele, et valijarakendus on masinkoodis rakendus, millega ei panda kaasa ei lähtekoodi ega silumisinfot. See tähendab, et minusugune filosoofiadoktorandist pühapäevahäkker suutis seda töödelda ainult musta kasti meetodil, ja polnud ühtegi mõistlikku viisi veenduda, mida mu muudatused mälupildis tegelikult teevad, sh mida täpselt peaks mu jaoks tähendama konkreetne veateade. Liiati ei suutnud ma seda veateadet leida valimiskomisjoni lehel avaldatud dokumentatsioonist.
+
+Kui ma paar minutit enne e-hääletuse lõppu käega lõin, olin üpriski segaduses. Kuigi mul oli lootust, et sain poolhuupi pusimise läbi sedeli rikutud ning see jõudis niisugusena ka valimisserverisse, võisin siiski olla teinud valijarakenduse või hääle kontrollimise rakenduse katki mistahes muul viisil. Hindasin, et õnnestumise tõenäosuseks umbakudu 0,5 — ma polnud ka üle 15 aasta sellistlaadi binaarkoodi-häkkimisega tegelenud. Postitasin seetõttu Twitterisse oma soorituse kohta paar pilti ja küsimuse: "<a href="https://twitter.com/trtram/status/570625243527716864">Kui mu e-hääl on rikutud, kas ma saan siis valimispäeval uuesti hääletada?</a>"
+
+Rahvahariduse mõttes mainin, et valimispäeval oma e-häält üle hääletada ei saa, olgu e-hääl rikutud või rikkumata. See on tõsi, jätke see endale meelde! See on üks asi, mida valimiskomisjon pole miskipärast 2005. aastast kuni tänapäevani suutnud valijatele selgeks teha. Aga see selleks.
+
+## Schrödingeri hääl<
+
+Minu kimbatuse peale oma hääletustulemusega pakkus mulle Facebookis operatiivselt abi e-hääletamise komisjoni esimees Tarvi Martens, kes postitas mu seinale <a href="https://www.facebook.com/boamaod/posts/10200232765738066?comment_id=10200237314131773&offset=0&total_comments=53&pnref=story">viimase minult tulnud e-sedeli kellaaja 17:58:25</a> ja kinnitas seejuures, et sedeli kehtivuse saab tuvastada alles kokkulugemisel.
+
+Meest sõnast, härga sarvist! Lootuses saada lahendus oma isiklikule Schrödingeri hääle probleemile orgunnisin end kohale e-hääletuse tulemuste kindlakstegemise üritusele Riigikogu konverentsisaalis.
+
+{{< youtube My2lMtOvjp4 >}}
+
+Ma ei hakka pikalt kirjeldama seda vaatepilti, kuidas Riigikogu konverentsisaal on tuubil täis võõramaa valimisvaatlejaid, kes kõik, klapid peas, kuulavad pühendunult tõlget sellest, kuidas Tarvi Martens peaasjalikult loeb ette terminalis antavaid käske, ja on õnnelikud, et saavad olla osa sellest maailmas unikaalsest müsteeriumist, mis ainult sel õhtul ja ainult meie eksootilises väikeriigis toimumas on. Muide, see pole mingi varjutatud kriitika, see oligi huvitav kogemus ja valimismasinate opereerimine oli igati asjatundlik. Ainuke asi, et raske on pidada toimunut valimiste sisuliseks vaatlemiseks, mis peaks meile erapooletuid ja õiglasi valimistulemusi tagama. Aga vabandust, ma kaldusin jälle kõrvale.
+
+Igatahes sellelt ürituselt ma oma tõenäosusprobleemile lõplikku lahendust ei saanud. Sain protsessi käigus teada, et lõpuks sõelale jäänud 176 328 e-hääle hulgas oli tõepoolest ka üks kehtetu sedel. Ent e-hääletamise komisjon oli muutunud varasemaga võrreldes kidakeelseks: mulle ei oldud nõus andma infot selle kohta, mis valimisringkonnas see kehtetu sedel esines, kuigi seda tüüpi teave mingis vormis ekraanilt korduvalt läbi käis. Sellisele infole tundus pääsevat ligi ainult valimiste infosüsteemi sisselogituna. Kuna minu sedel pidi olema tulnud Tartu linnast, siis oleks kehtetu sedeli ringkonna tuvastamine olnud piisavalt lollikindel tõend, et tegu on minu sedeliga. Seda tõendit ma aga ei saanud.
+
+Ja nüüd ma siis istun siin valimiste ööl oma Schrödingeri häälega ja mõtlen. Et mida olukorrast arvata, kui paar sammu tagasi astuda... Oletame korraks, et mul tõesti õnnestus e-hääle muutmine valijarakenduses? Mida sellest järeldada? Ja kuidas seda arusaadavas vormis seletada?
+
+## Valijarakendus oma pilli järgi tantsima
+
+Esiteks, ma panin valijarakenduse tegema seda, mida see polnud ette nähtud tegema. Mõtelge selle peale korraks! Kas see pole mitte e-valija põline hirm ja Keskerakonna antikampaaniate peamine tont? Minusugusel diletandil läks umbes tund aega, et panna valijarakendus hääletama väljamõeldud kandidaadi poolt. Mida ma oleks aga õppind tegema kaheksa tunniga? Kui ma oleks binaarkoodi häkkimisega rohkem kursis, kaua mul oleks läinud, et muuta valijarakendust nii, et see alati ühe ettemääratud kandidaadi või nimekirja poolt hääletaks? Õieti kui keeruline oleks olnud teeselda Interneti nimeservereid võltsides ametlikku valimissaiti ja sealt seda rikutud valijarakendust levitada?
+
+Need on mõtted, mida enamik e-valimiste kiitjatest kahjuks aktiivselt tõrjub. Minu vastus on, et ei oleks läinud kaua, ei oleks olnund väga keeruline, ei oleks nõudnud palju raha. Täiesti tehtav. Mingis sarnases vormis. Ei, see poleks maailma lõpp, aga mõni aferist saaks endale natuke hääli juurde või siis oldaks sunnitud üleüldise segaduse ja ebakindluse tõttu e-hääletuse tühistama. Või ilmselt ikkagi valimised tervenisti, sest ei saa adekvaatselt korraldada osale elektoraadist uusi privaatvalimisi. Ja tuletagem endale meelde, et e-hääletajaid on praeguseks stabiilselt üle 30 protsendi!
+
+Valimiste tühistamine ja uuesti korraldamine pole just odav lõbu.
+
+## Binaarkood ja digitaalne kirjaoskus
+
+Teiseks, ma pidin e-hääletamisel sedeli rikkumiseks häkkima binaarkoodi. Selle tulemus oli, et ma kirjutasin oma valimiste tahteavalduse mingisse ebamäärasesse muutuvasse massi, mille kohta ma ei saanud kuidagi kindel olla, mis kuju annab see mu häälele selleks hetkeks, kui seda lõpuks lugema hakatakse. Okei, ma ei pidanud ju sedelit rikkuma, aga samas oli mul see õigus, eks? Miks e-hääletajatele osad traditsioonilised valimispraktikad keelatud peaks olema? On mu poliitilised veendumused alus minu diskrimineerimiseks? Ja seda vabadel valimistel?
+
+Lisaks sellele peaks kogu valimistega seotud tarkvara olema niikuinii avatud lähtekoodiga. Selleks, et seda saaks lugeda. Binaarkood on mõeldud masinatele täitmiseks, mitte inimestele lugemiseks. Kui me räägime avatud infoühiskonnast, siis me ei saa endale lubada valimisi, mis pole valija jaoks maksimaalselt läbipaistvad ja auditeeritavad. Veelgi enam, kui me räägime digitaalsest kirjaoskusest kui infoühiskonna nurgakivist ja kiitleme sellega, et meie lapsed õpivad juba esimeses klassis lähtekoodi lugema ja kirjutama, siis kust tuleb see idee solvata oma inimesi — andestage mulle see väike rassism — sellega, et pakkuda neile valimistel tarvitamiseks hoopis masinatele mõeldud koodi? Samas, kui valijarakendusega võrreldes valimistel veelgi fundamentaalsemas rollis oleva ID-tarkvara lähtekood on ometigi avalik... See on umbes sama, kui tuua jaoskonda topeltpõhjaga valimiskastid, mille sisse ei tohi keegi vaadata, aga vasaku käe väikse sõrmega kompida võib. Miks?
+
+Just e-hääletamise põhimõttelise läbipaistmatuse tõttu tunnistas need põhiseadusvastaseks Saksamaa konstitutsioonikohus. Need ei vastavat valimiste avalikkuse põhimõttele. Kui me tahaksime e-hääletamist Euroopa mõttes adekvaatselt kasutama hakata, tuleks läbipaistmatuse probleemid maksimaalselt ületada. Pikas perspektiivis on avatud lähtekood ja digitaalse kirjaoskuse arendamine käsikäes infokodanikuühiskonna jõustamisega ka parim kaitse nende vältimatute klienditaseme riskide ja rünnatavuste vastu, mida heidavad e-hääletamisele ette infoühiskonna arvamusliidrid <a href="https://stallman.org/internet-voting.html">Stallmanist</a> kuni <a href="http://www.pealinn.ee/koik-uudised/rick-falkvinge-e-valimised-on-katastroofiliselt-halb-mote-n23547">Falkvingeni</a> ja <a href="http://thevotingnews.com/digital-democracy-yes-please-but-not-online-voting-glyn-moodycomputerworlduk/">Moodyst</a> kuni <a href="https://www.schneier.com/blog/archives/2014/11/hacking_interne.html">Schneierini</a>. Demoniseeritud <a href="http://youtu.be/JY_pHvhE4os">professor Haldermanist</a> rääkimata. Selle asemel, et valijarakendust binaarkoodi taha hägustada, peaksime hoopis selle lähtekoodi üldhariduskoolide informaatikatundides õpetama!
+
+## Eesti e-valimiste imedemaa
+
+Üldse on huvitavalt vastuoluline see olukord, kus valija on väljendanud parima äranägemise järgi oma tahteavalduse, aga ta ei tea, missugune see valimiskomisjoni jaoks siis lõpuks ikkagi oli. See on võrreldav mäluauguga pärast valimiskabiinis käimist, ainult antud juhul pole probleemiks mitte minu mälu, vaid mu informatsioonilise eneseteadlikkuse välistab valijarakenduse avatud lähtekoodi puudumine. Riik vahel ei tee tööd korralikult, kodanikel peab olema võimalus korrigeerida. Kui juttu on tarkvarast, siis selle vastastikuselt lugupidavaks korrigeerimiseks on vaja lähtekoodi. Nii saaks ka mina ja need mõnituhat ülejäänud protestimeelset anda enda soovitud e-hääle pabervalijatega samades tingimusetes.
+
+Samas pole binaarkoodi miinuseks ainult selle loetamatus, vaid ka sellesse kasutaja teadmata tehtud muudatuste märgatamatus.
+
+Pika jutu moraal praeguse seisuga on see, et meie e-hääletamine on kaugel veatusest, aga selle üle pole ühiskonnas isegi arutelu. Kuna e-hääletamine praegusel kujul põhineb pigem usaldusel kui kontrollimisel, siis kaasneb e-valimistega täie rauaga riiklik propaganda stiilis "e-valimised on turvalisemad kui pabervalimised, need on isegi <a href="https://www.ria.ee/e-valimised-on-liiga-turvalised/">liiga turvalised</a>". Usalduse hoidmiseks panevad nii valimiskomisjon kui muud asjassepuutuvad asutused täiega tuima ega tervita tegelikult ühtegi kriitikanoolt. Kusjuures seda propagandat kordavad järgi ka muidu suhteliselt arukad ja tehnoloogiateadlikud kodanikud. Võimalik, et tehnoloogiateadlikkusega ei käi üldiselt koos demokraatiateadlikkus, sest e-valimisi kiputakse võrdlema suvaliste muude veebiteenustega ning hindama nende turvalisust ka neile kohaste standardite järgi.
+
+Ühesõnaga, käib üks paras debati suretamine rahvuslikust uhkusest toituva massipsühoosi abil.
+
+Asjale ei aita muidugi väga kaasa ka Keskerakonna e-valimiste vastane kampaania, kuigi nad oma põhiväidetes väga ei eksigi. Pigem on nende probleem suletus arutelule, nt nende vastavaid kampaaniaid korraldav variorganisatsioon MTÜ Ausad Valimised pole olnud suuteline vastama ühelegi mu saadetud meilile. Ma olen küll näinud Keskerakonna saadikuid e-valimisi suht adekvaatselt kritiseerimas, aga pole näinud kedagi pakkumas välja, kuidas nendega edasi minna.
+
+Aga, jah, tasuta ühistransporti me vist Tallinnas kinni ei pane enam, kas e-valimised Eestis paneme?

@@ -1,7 +1,7 @@
 baseURL = "http://gafgaf.infoaed.ee/"
 languageCode = "et-ee"
 defaultContentLanguage = "et"
-title = "Sinu piraatkandidaat"
+title = "Üks Tartu krants"
 theme = "massively"
 
 # [params]
@@ -11,7 +11,7 @@ theme = "massively"
 # Below parameters can be set to override default post settings
 [params.posts]
      foldername = "posts"
-     pagesize = "6"
+     pagesize = "42"
      featuredpost = "false"
 
 
@@ -20,3 +20,5 @@ theme = "massively"
   languageName = "Eesti keeles"
 [languages.ru]
   languageName = "По-русски"
+[languages.en]
+  languageName = "In English"

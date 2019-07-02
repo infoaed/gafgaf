@@ -1,0 +1,69 @@
+---
+author: Marina Weisband
+categories:
+  - piraadipartei
+  - seisukohad
+  - infopoliitika
+disableComments: true
+image: images/weisband.jpg
+date: 2012-10-27 10:03:00
+title: 'Marina Weisband: Põhiasjad piraatide kohta'
+slug: marina-weisband-piraatidest
+description: Täna hommikul küsitakse minult mitmekümnes intervjuus ühte ja sedasama. Tegelikult küll juba kuid. On mõned küsimused, mis ikka ja jälle esile kerkivad ning millele vastamisega nii avalikkus kui ka me ise suurte raskustega toime tuleme. Seepärast seon ma oma vastused siinkohal sellega, mis ilmselt enim huvi pakub ning kõige enam eksiarvamusi tekitab.
+---
+
+<h2>1. Mille eest seisab Piraadipartei?</h2>
+
+Sellele küsimusele vastan ma tavaliselt osutades kolmele omavahel seotud põhiasjale:
+
+<h3>I Informatsioonivool</h3>
+
+Me kogeme ühiskonna ülemaailmset muutumist. Me moodustame omavahel võrgustiku ning tähtsaimaks kapitaliks on nüüd (vastandina põllumaale ja tööjõule) teadmised ja informatsioon. Taolisel võrgustumisel ja infovoolul on nii häid kui halbu külgi, nii väljavaateid kui riske. Me tegeleme nendega ning püüame seadusandlust selle nähtusega ühildada. Sellest tulenevad meie seisukohad hariduse (informatsiooni töötlemine), poliitilise läbipaistvuse (poliitikast tulenev infovool), kodanikualgatuse (poliitikasse suunatud infovoog), andmekaitse (informatsiooniline enesemääramine), autoriõigus (kopeeritavus ja sellega ümberkäimine) küsimustes. Ühest küljest tahame seadusi, teisalt aga poliitika tegemise stiili, mis sobiksid kokku nii ajastu kui asjaoludega.
+
+<h3>II Vabadus</h3>
+
+Kuna tänapäeva ühiskonnas on palju väga isikupäraseid indiviide, ei saa me teha poliitikat, mis rahuldaks kõiki. Me tahame aga rahuldada võimalikult paljusid. Seetõttu räägime me vabasfäärist ja isiklikust vastutusest. Igal inimesel peab olema vaba tegutsemise sfäär, mis on just nii suur, et ei kitsenda kellegi teise oma (see ei ole sama, mis anarhia, <a href="http://www.derwesten.de/nachrichten/lindner-piratenpartei-verwechselt-freiheit-mit-anarchie-id6493040.html">kulla härra Lindner</a>). Nimetatud vabasfääri ulatuses kannab inimene vastutust iseenda eest. Siit tulenevad meie perepoliitika, sõltuvuspoliitika, seisukohad kodanikuõiguste osas ning riburada ka ülejäänud.
+
+<h3>III Osasaamine ühiskonnast</h3>
+
+Ühegi inimese vabasfäär ei peaks sõltuma tema võimsusest ega rikkusest (ning see eristab meid teistest liberaalsetest erakondadest). Vabasfäär ja mänguruum eneseteostuseks tuleb tagada kõigile. Seepärast on meil palju seisukohti sotsiaalsetes küsimustes, nagu õigus saada osa ühiskonnast, alampalgast kuni tingimusteta põhipalgani, lõimimispoliitika, sõidupiletita linnalähitransport Berliinis jne.
+
+Võib täiesti väita, et me oleme uudsel viisil sotsiaalliberaalsed, ilma et meid oleks parem-vasak-skeemis võimalik päriselt kuhugi paigutada. Võib-olla peaksime õieti sellest raamistikust loobuma ja vaatlema vaid sisu.
+
+<h2>2. Aga piraatidel polegi mingit sisu!</h2>
+
+Esiteks on see vale. Meie programmi leiate <a href="http://wiki.piratenpartei.de/wiki/images/0/03/Parteiprogramm-englisch.pdf">siit</a>. Meil on ka osaliselt äärmiselt detailseid ja konkreetseid nõudmisi koguni riiklikul tasandil, kui vaadata näiteks plaanitavat autoriõiguse reformi, mille raames tahame muuta 86 üksikparagrahvi. Probleem on aga mujal. Nimelt selles, et meil on vastused küsimustele, mida veel ei esitatagi. Küsimused, mis kerkivad esile nelja või viie aasta pärast ning on siis üliaktuaalsed. Küsimused, mis nõuavad vastuseid. Näiteks: kuidas tagame Interneti kasutamise võimaluse demokraatlikus protsessis valimisarvuteid kasutamata? Siin on palju küsimusi.
+
+Seevastu pole meil üheseid vastuseid küsimustele, mis on praegu üliaktuaalsed, nagu näiteks võlakriis. Rahvas karjub: "Ei saa ju olla, et ühel erakonnal pole vastust nii olulisele küsimusele!" See peab paika. Vähemasti mitte ühelgi suuremal erakonnal. Enamikul väikestel erakondadel pole aga sellele vastust, nad keskenduvad teemadele, mis neid üldse selleni viis, et moodustada erakond. Mida seejuures ei tohi aga tähelepanuta jätta: veel pool aastat tagasi me olime väike partei. Meil polnud mõjujõudu, keegi ei küsinud meilt vastuseid ega tundnud huvi. Ning see on see, millele me olime suunatud: et meil on veel palju aega. Niisiis tegelesime tulevikuküsimustega ning ootasime oma aja saabumist. Ja ühtäkki meid valiti.
+
+See on suurepärane ja hea. Me kohaneme kiiresti uute tingimustega. Vähemalt seda me suudame hästi. Me tahame novembris vastu võtta majandusprogrammi, et täita ka viimane suur lünk. Ja meil on vaja veel detailsemaid vastuseid. Kuid selleks on veidi aega vaja. Muutused on tulnud oodatust kiiremini. See pole erakonna eksimus, see on probleem, mis meil tuleb lahendada. Kõige parem on teha seda üheskoos.
+
+Nii et kas meil on programm? Jah. Suurepärane programm. Kas me võiksime niisiis kohe valitsema asuda? Ei. Tahame me seda üldse? Ei.
+
+Tuleb aeg, mil teistel erakondadel, kel praegu on vastus kõigele olemas, tuleb vastustest puudu. Siis saame me loodetavasti toeks olla.
+
+<h2>3. Piraadid on ettearvamatud!</h2>
+
+Vale jutt, me oleme demokraatlikud. Meie kandidaadid pole etteaimatavad, sest neid ei määra juhatus, vaid nad valivad lihtliikmed, mis on meie demokraatlik baas. Meediale see meie juures ei meeldi, aga selline demokraatia kord on. Meie programmipunktid võetakse vastu liikmete häälteenamusega. Saavad need siis sellepärast olema missugused tahes? Teeb see meid ebausaldusväärseks? Ei. Kõik programmipunktid juhinduvad printsiipidest, mis said juba esimese punkti juures välja toodud. Need seisavad meie aluspõhimõtetes. Aga muus osas: mis saaks olla usaldusväärsem sellest, mille kõik koos on pikas ja närvesöövas demokraatlikus protsessis välja töötanud? Sellised asjad on vähemasti püsivad. On vaja suurt massi, et neid muuta. Selleks ei piisa ühe inimese kursimuutusest. Seega oleme me koguni usaldusväärsemad.
+
+Eeldatavasti ei oleks me mugav koalitsioonipartner. Esiteks tahaksime me teiste parteide seisukohalt ilmselt liialt palju asju avalikult ajada, teiseks ei meeldi meile fraktsioonist tulenev sund. Meile on rohkem meelt mööda töötamine vahelduvate enamustega, kuna see peegeldab palju paremini vahekordi elanikkonnas. Muidu ju otsustaks 4%, kas valitseb mustkollane või punaroheline koalitsioon, mis oleksid valitsustena täiesti erinevad, olgugi et 4% pole kuigi suur erinevus.
+
+<h2>4. Mis on piraatide saladus?</h2>
+
+See, et saladust ei ole. Me teeme poliitikat nii, nagu me tahame, et see oleks, oma äranägemise järgi ja nii, nagu me õigeks peame. Pole mingit salaplaani. Me usume oma eesmärkidesse, ning seejuures ei ole meile võim tähtis. Kas me ka selliseks jääme, on oluline küsimus. See sõltub meist endist. Ma arvan, et veel mõnda aega.
+
+Ja senikaua kuniks see nõnda on, on vaid üks tee Piraatidest lahtisaamiseks: kopeerige meie nõudmisi, kopeerige meie stiili! Kopeerige meid! Tehke seda kõike meist paremini! Ja ärge püüdke teha seda lihtsalt kasutades sõna "infopoliitika"!
+
+Need on põhimõttelised kaalutlused, millest ma intervjuudes või kodanikele vastates lähtun. Võib-olla parandate midagi, seda võite teha kommentaarides. Aga ma pean oluliseks selle juurde jääda ja seda levitada.
+
+Nii et levitage seda, kui leiate, et see võiks abiks olla.
+
+<h2></h2>
+
+<a href="http://wiki.piratenpartei.de/Benutzer:Marina"><img style="float: left; margin: 0 1.5em 1em 0;" src="http://boamaod.github.com/images/weisband200.jpg" alt="Marina Weisband" title="Marina Weisband"></a><p style="font-size:smaller;"><em><a href="http://wiki.piratenpartei.de/Benutzer:Marina">Marina Weisband</a> oli Saksamaa Piraadipartei poliitikajuht maist 2011 kuni aprillini 2012, mil Piraadipartei esindajad osutusid valituks Berliini ja Saarimaa liidumaade parlamentidesse (tulemused vastavalt 8,9% ja 7,4% häältest).</p>
+
+<p style="font-size:smaller;">Weisband astus oma kohalt tagasi vahetult enne Schleswig-Holsteini ja Põhja-Rein-Vestfaali liidumaade parlamentide valimisi (8,2% ja 7,8%), et kirjutada valmis oma psühholoogia eriala lõputöö Münsteri ülikoolis.</p>
+
+<p style="font-size:smaller;">Ülaloleva blogipostituse avaldas Weisband 26. märtsil 2012 ja see on tema tagasivaade tegevusele Saksamaa Piraadipartei poliitikajuhina.</em></p>
+
+<p style="font-size:smaller;"><em>Tõlgitud allikast: Marina Weisband — <a href="http://www.marinaslied.de/?p=714">Das Grundlegende an den Piraten</a> (tekst: <a href="https://twitter.com/Afelia/status/205791791079886848">CC-BY+NC+ND</a>, foto: korbinian_polk <a href="http://www.flickr.com/photos/62974746@N06/5727521972/">CC-BY</a>)</em></p>
