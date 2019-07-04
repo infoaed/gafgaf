@@ -1,1 +1,0 @@
-linnamyyr.et.md

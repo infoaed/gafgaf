@@ -54,4 +54,4 @@ ilma mälu kontrollimata (`f-prot /nomem`), viiruse eemaldamisest kettalt tõrje
 Mida teha, kui viirusetõrjeprogramm leiab arvutist tundmatu viiruse? Siis ei aita muu, kui kutsuda kohale mõni programmeerijast spetsialist või teha vajalikest andmefailidest (kuid mitte käivitatavatest programmifailidest) varukoopiad ja kogu ketas vormindamise teel tühjendada. Uue viiruse leidmisel oleks eetiline sellest teatada ka mõnele viirusetõrjega tegelevale organisatsioonile ning saata neile tundmatu viirusega nakatunud fail, et keegi
 teine sama viiruse pärast enam kannatama ei peaks.
 
-_Artikkel ilmus ajakirja Arvutimaailm 1997. aasta aprillikuu numbris._
+_Artikkel ilmus ajakirja [Arvutimaailm](https://www.am.ee/) 1997. aasta aprillikuu numbris._

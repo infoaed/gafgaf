@@ -1,1 +1,0 @@
-ansipi-desinfomasinad.et.md

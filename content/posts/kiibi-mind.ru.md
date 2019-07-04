@@ -1,1 +1,0 @@
-kiibi-mind.et.md
