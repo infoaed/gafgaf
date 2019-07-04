@@ -1,7 +1,7 @@
 baseURL = "http://gafgaf.infoaed.ee/"
 languageCode = "et-ee"
 defaultContentLanguage = "et"
-title = "Üks Tartu krants"
+title = "🐕 Üks Tartu krants"
 theme = "massively"
 
 # [params]
