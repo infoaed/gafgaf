@@ -11,7 +11,7 @@ theme = "massively"
 # Below parameters can be set to override default post settings
 [params.posts]
      foldername = "posts"
-     pagesize = "42"
+     pagesize = "52"
      featuredpost = "false"
 
 
