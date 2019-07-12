@@ -6,6 +6,8 @@ image = 'images/pollock.jpg'
 date = "2016-09-14T21:29:00"
 description = 'Miks on oluline, et meie ajastust saaks avatud infoühiskond? Kuidas see toimiks ja kuidas selleni jõuda? Selleks on vaja mõista, miks on oluline teha kogu avalik teave vabalt ligipääsetavaks, nii et igaüks saaks seda kasutada, jagada ja selle põhjal uut väärtust luua. Kuidas toimiks avatud infovahetuse maailm, mismoodi rahastada innovatsiooni ja uue väärtuse loomist viisil, mis ühilduks avatusega, alates üldarusaadavast mudelist kuni autoritele hüvitise tagamiseni?'
 disableComments = true
+[Author]
+  name = 'Rufus Pollock'
 +++
 
 Tänapäeval on tarkvara, andmebaaside ja innovatsiooni poolt kätketud info muutumas olulisemaks kui eales varem ja seda mitte ainult majanduses, vaid ühiskonnas tervikuna. Info on õigupoolest kiirkäigul muutumas üheks põhiliseks asjaks, mida me toodame, müüme ja kasutame.

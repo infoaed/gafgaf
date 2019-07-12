@@ -3,8 +3,13 @@ languageCode = "et-ee"
 defaultContentLanguage = "et"
 title = "🐕 Üks Tartu krants"
 theme = "massively"
+enableRobotsTXT = true
+canonifyURLs = true
 
-# [params]
+[Author]
+  name = "Märt Põder"
+
+[params]
   # set below parameter to define a favicon
   # favicon = "favicon.ico"
 
@@ -13,7 +18,6 @@ theme = "massively"
      foldername = "posts"
      pagesize = "52"
      featuredpost = "false"
-
 
 [languages]
 [languages.et]
