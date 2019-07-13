@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
   - krüpto
   - põhiõigused
   - manifest

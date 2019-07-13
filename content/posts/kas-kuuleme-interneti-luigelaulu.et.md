@@ -1,5 +1,6 @@
 +++
 title = 'Kas juba sügisel kuuleme Interneti luigelaulu?'
+tags = ['Euroopa Liit', 'Euroopa Komisjon', 'Internet', 'autoriõiguse direktiiv', 'Euroopa Parlament', 'e-riik', 'üleslaadimisfiltrid']
 slug = 'kas-kuuleme-interneti-luigelaulu'
 image = 'images/luigelaul.jpg'
 date = "2018-06-20T17:09:00"

@@ -1,5 +1,6 @@
 +++
 title = 'Andmed on uus põlevkivi!'
+tags = ['roheline erakond', 'kampaaniatekst', 'riigikogu valimised', 'põlevkivi', 'energeetika', 'Narva', 'Ida-Virumaa', 'avatud taristu', 'infoühiskond', 'avaandmed']
 slug = 'uus-p6levkivi'
 image = 'images/kivi.jpg'
 date = "2019-02-16T00:00:00"

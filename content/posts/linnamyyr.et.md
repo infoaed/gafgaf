@@ -1,5 +1,6 @@
 +++
 title = 'Kas nüüd saab e-hääletus valmis?'
+tags = ['e-hääletus', 'otsast lõpuni kontrollitavus', 'kontrollitavus', 'Kert Kingo', 'läbipaistvus', 'turvalisus', 'e-valimiste töörühm', 'e-hääletuse töörühm', 'e-riik', 'Helger Lipmaa', 'Oleg Mürk', 'Tarvi Martens', 'välisvaatlejad', 'internetihääletus', 'krüptograafia', 'defineerimine']
 slug = 'linnamyyr'
 image = 'images/punane.jpg'
 date = "2019-06-22T17:09:00"

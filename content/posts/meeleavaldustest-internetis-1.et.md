@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
   - ddos
   - internet
   - põhiõigused

@@ -1,6 +1,6 @@
 ---
 author: Aaron Swartz
-categories:
+tags:
   - avatud ligipääs
   - teaduskirjandus
   - piraatlus

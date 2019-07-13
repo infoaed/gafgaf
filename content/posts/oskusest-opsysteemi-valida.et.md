@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
   - estobuntu
   - vaba tarkvara
   - informatsiooniline enesemääramine

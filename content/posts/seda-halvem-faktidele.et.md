@@ -1,6 +1,7 @@
 +++
 title = 'Seda halvem faktidele!'
 slug = 'kunst-ja-andmed'
+tags = ['kunst', 'andmed', 'visualiseerimine', 'tõde', 'vikipeedia', 'statistika', 'demokraatia', 'tõejärgsus', 'tõepõhi', 'faktid']
 image = 'images/polujanenkova.png'
 date = "2017-11-30T17:28:00"
 description = 'Palju on juttu tõe lahustumisest uue meedia supis ja faktide olemuslikust jõuetusest propaganda ees. Korraldatakse arutelusid ja häkatone, arvamusliidrid ja poliitikud EL ja kohalikul tasemel otsivad lahendusi vohavale tõenduspõhisuse puudumisele, algatused nagu Propastop ja Väitlusseltsi/Delfi faktikontroll teevad oma esimesi samme, kuskil taustal toimetavad teadlased ja akadeemia, kes ei pea olukorda uudseks, kuid kiruvad teaduse bürokraatlikke mõõdikuid, mis muudavad kunagises tõe kantsis eneses toimuva tegelikkuse suhtes pehmelt öelda ambivalentseks.'

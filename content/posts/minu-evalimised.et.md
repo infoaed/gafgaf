@@ -1,6 +1,6 @@
 ---
 author: Märt Põder
-categories:
+tags:
   - valimised
   - e-hääletus
   - rikutud sedel

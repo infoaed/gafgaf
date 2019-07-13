@@ -1,6 +1,6 @@
 ---
 author: Märt Põder
-categories:
+tags:
   - e-hääletus
   - krüpto
   - e-riik

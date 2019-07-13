@@ -1,5 +1,6 @@
 +++
 title = 'Vaba ja avatud infoühiskond'
+tags = ['infoühiskond', 'demokraatia', 'piraadipartei', 'valimised', 'riigikogu', 'otsedemokraatia', 'sõnavabadus', 'avaandmed', 'infotaristu', 'kopimi', 'avatus', 'hajutatus', 'privaatsus', 'infovabadus', 'teadmusühiskond', 'avatud teadmus', 'vaba Internet', 'autoriõigus', 'küberkaitse', 'küberküber', 'avatud majandus', 'roheline erakond']
 slug = 'programm'
 image = 'images/roheline.jpg'
 date = "2019-02-01T00:00:00"

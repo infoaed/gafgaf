@@ -1,5 +1,6 @@
 +++
 title = 'Kas sina usaldaksid Ansipi kätte tsensuurimasina?'
+tags = ['Euroopa Liit', 'autoriõigus', 'masintsensuur', 'Andrus Ansip', 'loomevabadus', 'Internet', 'ettevõtlusvabadus', 'Wikimedia', 'platvormimajandus']
 slug = 'ansipi-desinfomasinad'
 image = 'images/maja.png'
 date = "2019-03-26T00:00:07"

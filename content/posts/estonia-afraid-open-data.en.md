@@ -1,5 +1,6 @@
 +++
 title = 'Is Estonia afraid of Open Data?'
+tags = ['unpublished', 'open data', 'Estonia', 'government policy', 'Taavi Kotka', 'Siim Sikkut', 'open knowledge', 'information society', 'Rufus Pollock', 'X-road', 'e-services', 'digital infrastructure']
 slug = 'estonia-afraid-open-data'
 image = 'images/opendataday.jpg'
 date = "2016-09-27T17:52:00"

@@ -1,6 +1,7 @@
 +++
 title = 'USA ei võta üle Euroopa Liidu standardeid'
 slug = 'ttip-lekib'
+tags = ['TTIP', 'Euroopa Liit', 'Ameerika Ühendriigid', 'kaubanduslepe', 'vabakaubandus', 'välispoliitika', 'roheline liikumine']
 image = 'images/TIPPILeaks_our_suspitions_were_right_1200x600.jpg'
 date = "2016-05-03T21:29:00"
 description = 'Eilsel Riigikogu istungil kinnitas välisminister Marina Kaljurand, et USA-EL vabakaubandusleppe tulemusel Eroopa Liidu standardid mitte ainult ei tugevne, nagu seni on kinnitanud Euroopa Komisjoni poolt nii Signe Ratso kui kaubandusvolinik Cecilia Malmström, vaid võetakse lausa üle ka USA poolt.'

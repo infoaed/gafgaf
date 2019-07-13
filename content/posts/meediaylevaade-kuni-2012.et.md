@@ -1,5 +1,5 @@
 ---
-categories:
+tags:
   - meediaülevaade
   - ajalugu
 disableComments: true

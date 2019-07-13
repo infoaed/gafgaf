@@ -1,4 +1,4 @@
-baseURL = "http://gafgaf.infoaed.ee/"
+baseURL = "https://gafgaf.infoaed.ee/"
 languageCode = "et-ee"
 defaultContentLanguage = "et"
 title = "🐕 Üks Tartu krants"
@@ -12,6 +12,9 @@ canonifyURLs = true
 [params]
   # set below parameter to define a favicon
   # favicon = "favicon.ico"
+
+[taxonomies]
+  tag = "tags"
 
 # Below parameters can be set to override default post settings
 [params.posts]

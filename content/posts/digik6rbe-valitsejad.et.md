@@ -1,5 +1,6 @@
 +++
 title = 'Kas Google tahaks olla valitseja digitaalses kõrbes?'
+tags = ['Internet', 'Andrus Ansip', 'väljendusvabadus', 'autoriõigus', 'sõnavabadus', 'platvormimajandus', 'Euroopa Liit', 'ettevõtlus', 'platvormi vastutus']
 slug = 'digik6rbe-valitsejad'
 image = 'images/sentinel.png'
 date = "2019-03-26T00:01:00"

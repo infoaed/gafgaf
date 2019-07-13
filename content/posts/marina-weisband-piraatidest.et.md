@@ -1,6 +1,6 @@
 ---
 author: Marina Weisband
-categories:
+tags:
   - piraadipartei
   - seisukohad
   - infopoliitika
