@@ -1,5 +1,6 @@
 +++
 title = 'Interneti Sihtasutus otsis taskust kogukonda, aga leidis ainult raha'
+tags = ['domeenireform', 'Heiki Sibul', 'Endel Lippmaa', 'Jaak Lippmaa', 'kaasamine', 'Marek-Andres Kauts', 'Eesti Interneti Kogukond', 'netikogukond', 'Internet Society', 'Henrik Aavik', 'Günter Kits', 'Internet Society Estonia', 'ISOC', 'Tartu Häkkerikoda', 'Open Knowledge Estonia', 'Wikimedia Eesti', 'krüptopidu', 'Interneti Päev', 'Tuleviku Tehnoloogiate SA', 'Eesti Krüptoraha Liit', 'Avatud Lähtekoodiga ja Vaba Tarkvara Liit', 'autoriõiguse direktiiv', 'Arvamusfestival']
 slug = 'sihtasutus-otsis-kogukonda'
 image = 'images/sihtasutus.jpg'
 date = "2019-04-15T11:04:00"

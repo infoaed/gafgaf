@@ -1,5 +1,6 @@
 +++
 title = 'Tsensuurimasinate pealetung'
+tags = ['Andrus Ansip', 'masintsensuur', 'netitsensuur', 'ACTA', 'autoriõiguse direktiiv', 'tsensuurirobotid', 'Euroopa Parlament', 'Euroopa Komisjon', 'digitaalne ühisturg', 'ühtne digiturg', 'tehisintellekt', 'robotjurist', 'autoriõigus', 'ärihuvid', 'Indrek Tarand', 'Tunne Kelam', 'üleslaadimisfiltrid']
 slug = 'tsensuurimasinate-pealetung'
 image = 'images/censor-768x432.png'
 date = "2018-07-07T17:09:00"

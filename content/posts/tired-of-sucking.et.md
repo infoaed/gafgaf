@@ -1,5 +1,6 @@
 +++
 title = 'We are tired of sucking a corporate dick!'
+tags = ['õiglane kaubandus', 'autoriõigus', 'loomevabadus', 'Amanda Palmer', 'Kristjan Korjus', 'Juhan Aru', 'kirjastamine', 'must raha', 'Creative Commons', 'Aaron Swartz', 'avatud ligipääs', 'teaduskirjandus', 'Matemaatika õhtuõpik', 'Wikipedia', 'SOPA', 'ACTA', 'intellektuaalomand', 'valgustusajastu', 'loometööstus', 'meediatööstus']
 slug = 'tired-of-sucking'
 image = 'images/portree2.jpg'
 date = "2014-05-13T17:09:00"

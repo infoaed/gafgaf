@@ -1,5 +1,6 @@
 +++
 title = 'Vikipeedia armastab autoriõigust'
+tags = ['autoriõigus', 'tsensuur', 'vabad litsentsid', 'Creative Commons', 'Euroopa Komisjon', 'autoriõiguse direktiiv', 'panoraamivabadus', 'avalik omand', 'Paul McCartney', 'Jean-Claude Juncker', 'Aivar Pau', 'geoblokkimine', 'Andrus Ansip', 'ACTA', 'ühtne digiturg', 'digitaalne ühisturg', 'ühtne digitaalne turg', 'Wikimedia', 'Vikipeedia']
 slug = 'vikipeedia-armastab-autori6igust'
 image = 'images/Karikakar_tuules.jpg'
 date = "2019-03-26T12:09:00"
