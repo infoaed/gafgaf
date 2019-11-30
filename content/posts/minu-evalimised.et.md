@@ -40,7 +40,7 @@ Kui ma paar minutit enne e-hääletuse lõppu käega lõin, olin üpriski segadu
 
 Rahvahariduse mõttes mainin, et valimispäeval oma e-häält üle hääletada ei saa, olgu e-hääl rikutud või rikkumata. See on tõsi, jätke see endale meelde! See on üks asi, mida valimiskomisjon pole miskipärast 2005. aastast kuni tänapäevani suutnud valijatele selgeks teha. Aga see selleks.
 
-## Schrödingeri hääl<
+## Schrödingeri hääl
 
 Minu kimbatuse peale oma hääletustulemusega pakkus mulle Facebookis operatiivselt abi e-hääletamise komisjoni esimees Tarvi Martens, kes postitas mu seinale <a href="https://www.facebook.com/boamaod/posts/10200232765738066?comment_id=10200237314131773&offset=0&total_comments=53&pnref=story">viimase minult tulnud e-sedeli kellaaja 17:58:25</a> ja kinnitas seejuures, et sedeli kehtivuse saab tuvastada alles kokkulugemisel.
 

@@ -15,7 +15,7 @@ description: Otsedemokraatia ja esindusdemokraatia pole üldse nii ühemõttelis
 
 Olen kogenud, et otsedemokraatia vastu suunatud standardargumentidega tuttavale lugejale on valgdemokraatia üllatavaim omadus, et see võimaldab osalejal vastavalt tema valikule nii jätkata tavapärast esindajate valimist esinduskogudesse kui ka vajadusel ohjad otsedemokraatlikult enda kätte võtta. Kuid kas sellist masinavärki on üldse võimalik viisakalt, st ilma trobikonna <em>ad hoc</em> lahenduste jms häkkideta üles ehitada? Selgub, et on... Näiteks Euroopa piraadiparteide poolt soositud valgdemokraatia (ingl k _liquid democracy_) on üks reaalne viis võtta parimad küljed kummastki ja liita need täiesti eraldiseisvaks demokraatiatüübiks.
 
-<h2>Volitus- ehk delegaadidemokraatia</h2>
+## Volitus- ehk delegaadidemokraatia
 
 Põhimõtteliselt on valgdemokraatia volitus- ehk delegaadidemokraatia üks liike. Volitusdemokraatia omakorda on selline demokraatiatüüp, mis lähtub piiratud volitustega delegaadi mõistest. Kui esindusdemokraatiate puhul valivad kodanikud rahvasaadiku enda esindajaks esinduskogusse kindlaks ajaks ja kõigi valijate puhul samasuguste laiade volitustega, siis volitusdemokraatia puhul valitakse delegaat täpselt nii pikaks ajaks ja nii laiade volitustega, nagu olukord nõuab. Ka sisaldub delegaadi mõistes volituste tühistamine ja uue delegaadi määramine, kui selleks on vajadus. Ehk teisisõnu on nn saadiku tagasikutsumine delegaadidemokraatia olemuslik komponent.
 
@@ -29,8 +29,7 @@ Kuid valgdemokraatia eripäraks on lisaks veel see, et volitusi delegeeritakse o
 
 Valgdemokraatia ühendab niimoodi esindus- ja otsedemokraatia lihtsa printsiibi alusel tervikuks, mis hõlmab mõlemat. Tegu on delegeerimisahelate ja üldise individuaalse delegeerimisega volitusdemokraatia liigiga.
 
-<p><iframe width="480" height="360" src="http://www.youtube.com/embed/fg0_Vhldz-8" frameborder="0" allowfullscreen></iframe>
-</p>
+{{< youtube fg0_Vhldz-8 >}}
 
 Selguse mõttes võtan kokku valgdemokraatia peamised omadused:
 
@@ -43,7 +42,7 @@ Selguse mõttes võtan kokku valgdemokraatia peamised omadused:
 
 Lisaks on sellise süsteemi puhul kindlasti huvipakkuv, et seda annab vormiliselt ühitada ka tavaliste nelja aasta tagant toimuvate valimistega. Valimiskabiinis kandidaadi numbri sedelile kirjutamine ja selle valimiskasti laskmine ei pea valgdemokraatiat kasutusele võttes kuskile kaduma. Vanemal põlvkonnal poleks vaja õppida vormiliselt uusi demokraatia protseduure, kui nad seda ei taha. Nad valiks lihtsalt iga nelja aasta tagant maksimaalsete volitustega delegaadi. Ent kui nad tahavad, siis saavad nad delegaate ja volitusi valimiste vahelisel ajal muuta.
 
-<h2>Infoühiskonnale kohane otsustusmehhanism</h2>
+## Infoühiskonnale kohane otsustusmehhanism
 
 Internet ja infoühiskonna areng on toonud kaasa selle, et kodanikel on ilma suurema vaevata võimalus end kurssi viia mistahes seaduseelnõu vms plaanitava otsuse tagamaadega. Seda piirab küll vähene pealehakkamine ning mõningane riigipoolne oskamatus või salatsemine, aga tendents on selgelt olemas. Nii ei nõustu kodanikud enam olema riigiasjade otsustamise passiivsed pealtvaatajad, vaid tahavad samuti otsustamisel oma hääle kuuldavale tuua.
 
@@ -55,7 +54,7 @@ Oluline on ka valgdemokraatia dünaamiline kohandumine indiviidi harjumustega. I
 
 Tegelikult on ülal visandatud valgdemokraatia ainult üks geneeriline vorm. Sellist süsteemi on võimalik eri piirangute kehtestamisega kallutada rohkem otsedemokraatia või siis rohkem esindusdemokraatia poole. On võimalik luua puhvreid, mis vähendavad võimalusi populismiks ja rahva tahtega manipuleerimiseks.
 
-<h2>Volitusdemokraatia perspektiivid</h2>
+## Volitusdemokraatia perspektiivid
 
 Loomulikult on sellisele valgdemokraatiale ka hulk vastuväiteid. Neid kõiki ma siin praegu ükshaaval läbi käima ei hakka, aga üldiselt taandub suurem osa neist ikkagi küsimusele, et kas me oleme valmis rahvast kui otsuste allikat usaldama või mitte. Ilmselgelt saaks valgdemokraatia laiem kasutuselevõtt toimuda ainult samm-sammult, uued demokraatlikud praktikad vajavad harjutamist, isegi siis, kui nad on teoreetiliselt parimad võimalikest.
 
@@ -69,19 +68,17 @@ Kui keegi tahab, siis võime vastu- ja pooltargumente selle artikli kommentaariu
 
 Seni on valgdemokraatlikud süsteemid reaalset kasutust leidnud peamiselt eri maade piraadiparteides, iseäranis tuntud on selle poolest Saksamaa Piraadipartei. Samas pole sakslastel meiega sarnast ID-kaardi süsteemi ning see on nende valgtagasiside tarkvara kasutusvõimalusi märkimisväärselt piiranud. Ometi on sellest saanud üks nende tuntumaid sümboleid. Rootsis Vallentuna kohalikus omavalitsuses on juba kolmandat valimisperioodi esindatud partei nimega <a href="http://demoex.net/en">Demoex</a> saadik, kes on väljundiks valijate otsedemokraatlikele häältele. Esindusdemokraatlikus süsteemis otsedemokraatliku oaasi tekitamine on paljude teiste maade sarnaste algatuste seas ka Eestis registreeritud <a href="http://e-erakond.ee/">e-erakonna</a> eesmärgiks.
 
-<a href="http://piraadipartei.ee/sissejuhatus">Eesti Piraadipartei</a> on samuti katsetanud piraatide seas populaarse valgtagasiside tarkvaraga <a href="http://liquidfeedback.org/">Liquid Feedback</a>, see on tõlgitud eesti keelde ning paigaldatud Piraadipartei lehele. Me pole seda aga reaalselt kasutusse võtnud eelkõige sellepärast, et meie poolesaja liikme või aktivistiga on võimalik asju arutada ja otsustada ka lihtsamate vahenditega ning selle süsteemi püsiv kasutamine muutuks meil peagi lihtsalt formaalsuseks. Küll aga võtame valgtagasiside või mõne teise valgdemokraatliku süsteemi kindlasti kasutusele, kui meie liikmete arv hakkab jõudselt üle saja kerkima.
+<a href="https://piraadipartei.ee/">Eesti Piraadipartei</a> on samuti katsetanud piraatide seas populaarse valgtagasiside tarkvaraga <a href="http://liquidfeedback.org/">Liquid Feedback</a>, see on tõlgitud eesti keelde ning paigaldatud Piraadipartei lehele. Me pole seda aga reaalselt kasutusse võtnud eelkõige sellepärast, et meie poolesaja liikme või aktivistiga on võimalik asju arutada ja otsustada ka lihtsamate vahenditega ning selle süsteemi püsiv kasutamine muutuks meil peagi lihtsalt formaalsuseks. Küll aga võtame valgtagasiside või mõne teise valgdemokraatliku süsteemi kindlasti kasutusele, kui meie liikmete arv hakkab jõudselt üle saja kerkima.
 
 Väärib ka mainimist, et volitusdemokraatia võimalused ei piirdu tegelikult sugugi mitte ainult valgdemokraatiaga. Näiteks Bryan Fordi <a href="http://www.brynosaurus.com/log/2002/1021-DelegativeVoting/multi.html">volitusdemokraatlik alternatiiv üksiku ülekantava hääle süsteemile</a> pakub suurepärast lahendust strateegilise valimise probleemile ning selle võiks minu arvates Eestis kasutusele võtta kasvõi kohe praegu.
 
 Lisaks muule pakub volitusdemokraatia paradigma mõistelisi vahendeid, mille abil kaardistada seda hämarala, mis jääb otsedemokraatia ja esindusdemokraatia vahele. Pikemas perspektiivis võiks see tuua meid välja olukorrast, kus käib tulutu standardargumentide loopimine veendunud esindusdemokraatia pooldajate ja andunud otsedemokraatia fännide vahel.
 
-<h2>Lõpetuseks</h2>
+## Lõpetuseks
 
 Miks ma seda üldse kirjutan? Juhtus nii, et Rahvakogu ideepanka sirvides märkasin, et seal on täiesti arvestatav hulk mõistlikke ettepanekuid rahvale hääletusõiguse andmiseks ka väljaspool tavapäraseid esinduskogude valimisi. Miskipärast aga hakati iga sellist ettepanekut lammutama kooliõpiku argumentidega otsedemokraatia vastu. Kuugeldasin selle peale "delegatiivset demokraatiat" jm sarnaseid fraase ning otsustasin, et Internet vajab sel teemal hädasti ühte esseed.
 
 Ja tänu Anto Veldrele eilse <a href="http://www.sirp.ee/index.php?option=com_content&view=article&id=16950:infouehiskonnast-hereetiliselt-v&catid=9:sotsiaalia&Itemid=13">Infoühiskonnast hereetiliselt V</a> eest, mis sundis mind lõpuks siinset esseed kirja panema!
-
-<h2></h2>
 
 <p style="font-size:smaller; line-height: 1.3; margin-bottom: 0.8em;">Sama teema varem Eesti meedias:</p>
 
