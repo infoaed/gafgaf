@@ -4,7 +4,7 @@ slug = 'kuidas-seletada-vikit'
 tags = ['vikipeedia', 'mediawiki', 'kogukond', 'altwiki', 'creative commons', 'litsentsid', 'ühisloome', 'demokraatia', 'teadmus', 'aeglane meedia', 'wiki', 'tõeprotsess', 'vandenõuteooria', 'hando tõnumaa', 'mariann joonas']
 image = 'images/lokid.jpg'
 date = "2018-09-20T21:29:00"
-description = 'Vikipeedias rakenduv küllalt robustne ja aeglane demokraatlik protsess. Kui mõne artikli kohta on tõepoolest vastakad arvamused, siis jääb artikkel ootama, kuni kogukond jõuab artikli sisu osas suhtelisele konsensusele, üks pool tüdib lõplikult vaidlemast või korraldatakse probleemi lahendamiseks hääletus. See viimane on artikli sisu üle otsustamisel siiski väga harv nähtus, sest eelistatakse kokkuleppeid ega ole tehtud standardiks tõe üle hääletamise libedat teed.'
+description = 'Vikipeedias rakendub küllalt robustne ja aeglane demokraatlik protsess. Kui mõne artikli kohta on tõepoolest vastakad arvamused, siis jääb artikkel ootama, kuni kogukond jõuab artikli sisu osas suhtelisele konsensusele, üks pool tüdib lõplikult vaidlemast või korraldatakse probleemi lahendamiseks hääletus. See viimane on artikli sisu üle otsustamisel siiski väga harv nähtus, sest eelistatakse kokkuleppeid ega ole tehtud standardiks tõe üle hääletamise libedat teed.'
 disableComments = true
 +++
 

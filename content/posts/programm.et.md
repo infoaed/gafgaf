@@ -10,7 +10,7 @@ disableComments = true
 
 _Eesti infoühiskonna edu tulenes 90ndate piiranguteta olukorrast, mis võimaldas võtta kasutusele uue tehnoloogia veel euroopalikke väärtusi järgimata -- tarkvara piraatisid nii riigiastused kui eraettevõtted, isikuandmetega võis hangeldada suuremaid sanktsioone kartmata. Mis tõi meid siia, ei vii edasi -- järgmise põlvkonna areng ei põhine mitte põhimõtete ja reeglite puudumisel, vaid infoühiskonna edasiviivate kontseptsioonide mõistmisel ja kasutuselevõtmisel. Nii on kilbil uudsed väärtused nagu avatus ja privaatsus, uuendamist vajab autoriõigus ja see, kuidas teeme tööd ning saame tasu. Digikeskkond laieneb ja tungib meie tavapärasesse tegelikkusse, samas on digitaristu omadused meie jaoks praegu veel uudsed ning ajavad meid segadusse. Selles programmis vaatame maailmale bittide ja baitide poolelt ning pakume lahendusi, mis on end digitaalsetes ökosüsteemides tõestanud._
 
-_Vt [koos ülejäänud roheliste programmiga](https://rohelised.ee/valimisprogramm-2019/#eesti-kui-info%C3%BChiskond) ja täiendusi [infoühiskonna programmi vikist](https://gafgaf.infoaed.ee/wiki/)._
+_Vt [koos ülejäänud roheliste programmiga](https://rohelised.ee/valimisprogramm-2019/#eesti-kui-infouhiskond) ja täiendusi [infoühiskonna programmi vikist](https://gafgaf.infoaed.ee/wiki/)._
 
 ## Otsedemokraatia
 

@@ -19,7 +19,7 @@ canonifyURLs = true
 # Below parameters can be set to override default post settings
 [params.posts]
      foldername = "posts"
-     pagesize = "52"
+     pagesize = "24"
      featuredpost = "false"
 
 [languages]

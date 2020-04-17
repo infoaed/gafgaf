@@ -1,7 +1,7 @@
 +++
 title = 'Kuri müstiline viirus'
 slug = 'kuri-mystiline-viirus'
-image = 'images/vanapagan-estoned.png'
+image = 'images/reliikvia.png'
 date = "1997-04-01T14:21:00"
 description = 'Algajate arvutikasutajate seas võib tihti kohata müüti viirusest kui millestki mõistuslikult põhjendamatust, mingist apokalüptilisest fluidumist, mis ei allu füüsika ega loogika seadustele. Sellisest suhtumisest on nakatunud paljud erialaspetsidki, kuigi nad seda endale ise mitte mingi hinna eest tunnistada ei taha. Õnneks teab siiski iga programmist, kes arvuti madalama taseme hingeeluga veidikenegi tuttav, et viirus on täiesti harilik programmijupp, mis erinevalt tavalisest programmist kirjutatud nii, et ta end ise levitaks.'
 disableComments = true
