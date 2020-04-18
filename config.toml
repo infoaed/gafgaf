@@ -7,6 +7,7 @@ disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 enableRobotsTXT = true
 canonifyURLs = true
+defaultContentLanguage = "et"
 
 [Author]
   name = "Märt Põder"
