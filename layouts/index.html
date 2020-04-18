@@ -28,7 +28,7 @@
 		{{ $postsPaging := .Paginate $postsForPaging $postsPageSize }}
 
 		<!-- Wrapper -->
-			<div id="video_wrapper" class="fade-in" data-pfn="{{ $postsFoldername }}" data-ps="{{ $postsPageSize }}" data-pfp="{{ $postsFeaturedPostEnabled }}" onclick="var video=document.getElementById('header_video'); if (video.muted) video.muted=false; else video.muted=true;">
+			<div id="video_wrapper" class="fade-in" data-pfn="{{ $postsFoldername }}" data-ps="{{ $postsPageSize }}" data-pfp="{{ $postsFeaturedPostEnabled }}">
 
 				<video autoplay muted loop id="header_video">
 				<source src="/images/mis-kuradi-kanalid.mp4" type="video/mp4">

@@ -9,6 +9,9 @@
 	var	$window = $(window),
 		$body = $('body'),
 		$wrapper = $('#wrapper'),
+		$header_video = $('#header_video'),
+		$video = $header_video[0],
+		$video_wrapper = $('#video_wrapper'),
 		$header = $('#header'),
 		$nav = $('#nav'),
 		$main = $('#main'),
@@ -55,11 +58,11 @@
 						bottom: '-50vh',
 						enter: function() {
 							$intro.addClass('hidden');
-							document.getElementById("header_video").pause();
+							$video.pause();
 						},
 						leave: function() {
 							$intro.removeClass('hidden');
-							document.getElementById("header_video").play();
+							$video.play();
 						}
 					});
 
@@ -76,16 +79,39 @@
 						bottom: '-15vh',
 						enter: function() {
 							$intro.addClass('hidden');
-							document.getElementById("header_video").pause();
+							$video.pause();
 						},
 						leave: function() {
 							$intro.removeClass('hidden');
-							document.getElementById("header_video").play();
+							$video.play();
 						}
 					});
+										
+				});
+		
+			// Fade audio in and out on header click
+				$(document).ready(function() { 
+					
+					$video_wrapper.click(function() { 
+						
+						if ($header_video.prop("muted")) {
+							$header_video.prop("volume", 0);
+							$header_video.prop("muted", false);
+						}
 
-			});
+						var volume = $header_video.prop("volume");
+						if (volume < 0.1) {
+							$header_video.animate({volume: 1.0}, 3333);
+						} else {
+							$header_video.animate({volume: 0}, 666);
+						}
+						
+					}); 
+					
+				});
 
 		}
+		
 
 })(jQuery);
+
