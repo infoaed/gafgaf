@@ -1,27 +1,33 @@
-baseURL = "https://gafgaf.infoaed.ee/"
 languageCode = "et-ee"
-defaultContentLanguage = "et"
 title = "🐕 Üks Tartu krants"
+baseURL = "https://gafgaf.infoaed.ee/"
 theme = "massively"
+googleanalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 enableRobotsTXT = true
 canonifyURLs = true
 
 [Author]
   name = "Märt Põder"
 
-[params]
+# [params]
   # set below parameter to define a favicon
   # favicon = "favicon.ico"
+  # set to change date format
+  # dateFormat = "2.1.2006"
 
 [taxonomies]
   tag = "tags"
 
 # Below parameters can be set to override default post settings
 [params.posts]
-     foldername = "posts"
-     pagesize = "24"
-     featuredpost = "false"
-
+     folderName = "posts"
+     pageSize = "24"
+     featuredPost = false
+     paginationPages = 2
+     showFirstLast = false
+ 
 [languages]
 [languages.et]
   languageName = "Eesti keeles"

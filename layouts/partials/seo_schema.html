@@ -1,0 +1,27 @@
+{{ $data := index .Site.Data .Site.Language.Lang }}
+<script type="application/ld+json">
+{
+    "@context" : "http:\/\/schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "{{ .Site.BaseURL }}"
+    },
+    "articleSection" : "{{ .Section }}",
+    "name" : "{{ .Title }}",
+    "headline" : "{{ .Title }}",
+    "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with $data.intro }}{{ range $i, $e := .description }}{{ if $i }} {{ end }}{{ .line }}{{ end }}{{ end }}{{ end }}{{ end }}",
+    "inLanguage" : "{{ .Site.Language.Lang | default "et" }}",
+    "author" : "{{ if .IsPage }}{{ if and (reflect.IsMap .Params.author) }}{{ range .Params.author }}{{ . }}{{ end }}{{ else if .Params.author }}{{ .Params.author }}{{ else }}{{ range .Site.Author }}{{ . }}{{ end }}{{ end }}{{ else }}{{ range .Site.Author }}{{ . }}{{ end }}{{ end }}",
+    "creator" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+    "publisher": "{{ range .Site.Author }}{{ . }}{{ end }}",
+    "accountablePerson" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+    "copyrightHolder" : "{{ range .Site.Author }}{{ . }}{{ end }}",
+    "copyrightYear" : "{{ .Date.Format "2006" }}",
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+    "dateModified" : "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+    "url" : "{{ .Permalink }}",
+    "wordCount" : "{{ .WordCount }}",
+    "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ else }}{{ with $data.intro }}{{ range $i, $e := .tags }}{{ if $i }}{{ end }}"{{ . }}",{{ end }}{{ end }}{{ end }}"gafgaf" ]
+}
+</script>

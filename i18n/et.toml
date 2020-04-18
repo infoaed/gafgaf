@@ -1,0 +1,32 @@
+[CONTACT_ADDRESS]
+  other = "Aadress"
+[CONTACT_EMAIL]
+  other = "Meil"
+[CONTACT_FORM_FIELD_EMAIL]
+  other = "Meil"
+[CONTACT_FORM_FIELD_MESSAGE]
+  other = "Sõnum"
+[CONTACT_FORM_FIELD_NAME]
+  other = "Nimi"
+[CONTACT_FORM_SUBMIT_SEND_MESSAGE]
+  other = "Saada sõnum!"
+[CONTACT_PHONE]
+  other = "Telefon"
+[CONTACT_SOCIAL]
+  other = "Leia mind võrgustikest!"
+[COPYRIGHT_MESSAGE_1]
+  other = "Kujundus: [HTML5 UP](https://html5up.net)"
+[COPYRIGHT_MESSAGE_2]
+  other = "Hugo port: [curttimson](https://curtistimson.co.uk)"
+[INTRO_CONTINUE]
+  other = "Edasi"
+[NAV_CONTACT]
+  other = "Programm"
+[PAGINATION_NEXT]
+  other = "Järgmine"
+[PAGINATION_PREVIOUS]
+  other = "Eelmine"
+[PAGINATION_FIRST]
+  other = "Esimene"
+[PAGINATION_LAST]
+  other = "Viimane"

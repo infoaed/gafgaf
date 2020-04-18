@@ -1,0 +1,28 @@
+[CONTACT_ADDRESS]
+  other = "Aadress"
+[CONTACT_EMAIL]
+  other = "Meil"
+[CONTACT_FORM_FIELD_EMAIL]
+  other = "Meil"
+[CONTACT_FORM_FIELD_MESSAGE]
+  other = "Sõnum"
+[CONTACT_FORM_FIELD_NAME]
+  other = "Nimi"
+[CONTACT_FORM_SUBMIT_SEND_MESSAGE]
+  other = "Saada sõnum!"
+[CONTACT_PHONE]
+  other = "Telefon"
+[CONTACT_SOCIAL]
+  other = "Найди меня в сети!!"
+[COPYRIGHT_MESSAGE_1]
+  other = "Дизайн: [HTML5 UP](https://html5up.net)"
+[COPYRIGHT_MESSAGE_2]
+  other = "Порт Hugo: [curttimson](https://curtistimson.co.uk)"
+[INTRO_CONTINUE]
+  other = "Более"
+[NAV_CONTACT]
+  other = "Программа"
+[PAGINATION_NEXT]
+  other = "Далее"
+[PAGINATION_PREVIOUS]
+  other = "Назад"
