@@ -12,7 +12,8 @@
 		$header = $('#header'),
 		$nav = $('#nav'),
 		$main = $('#main'),
-		$navPanelToggle, $navPanel, $navPanelInner;
+		$navPanelToggle = $('#navPanelToggle'),
+		$navPanel, $navPanelInner;
 
 	// Breakpoints.
 		breakpoints({
@@ -24,6 +25,18 @@
 			xsmall:    ['361px',    '480px'    ],
 			xxsmall:   [null,       '360px'    ]
 		});
+
+	// Nav Panel.
+			// Change toggle styling once we've scrolled past the header.
+				$header.scrollex({
+					bottom: '5vh',
+					enter: function() {
+						$navPanelToggle.removeClass('alt');
+					},
+					leave: function() {
+						$navPanelToggle.addClass('alt');
+					}
+				});
 
 	// Intro.
 		var $intro = $('#intro');
