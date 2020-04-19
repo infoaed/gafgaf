@@ -20,6 +20,8 @@
   other = "Hugo port: [curttimson](https://curtistimson.co.uk)"
 [INTRO_CONTINUE]
   other = "Edasi"
+[NAV_MENU]
+  other = "Menüü"
 [NAV_CONTACT]
   other = "Programm"
 [PAGINATION_NEXT]

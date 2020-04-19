@@ -1,0 +1,17 @@
+{{/* Function to localize dates. */}}
+{{ $data := .siteData }}
+{{ $date := .date }}
+{{ $parts := split $data.post.dateformat "%" }}
+{{ range $parts }}
+	{{if gt (len .) 0}}
+		{{ $code := substr . 0 1 }}
+		{{ $delim := substr . 1 }}
+		{{ if eq $code "d" }} 
+			{{ print $date.Day $delim }}
+		{{ else if eq $code "B" }} 
+			{{ index $data.months (printf "%d" $date.Month) }}{{ print $delim }}
+		{{ else if eq $code "Y" }} 
+			{{ print $date.Year $delim }}
+		{{ end }}
+    {{ end }}
+{{ end }}

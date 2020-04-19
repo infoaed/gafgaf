@@ -20,6 +20,8 @@
   other = "Порт Hugo: [curttimson](https://curtistimson.co.uk)"
 [INTRO_CONTINUE]
   other = "Более"
+[NAV_MENU]
+  other = "Меню"
 [NAV_CONTACT]
   other = "Программа"
 [PAGINATION_NEXT]
