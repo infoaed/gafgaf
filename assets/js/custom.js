@@ -9,9 +9,6 @@
 	var	$window = $(window),
 		$body = $('body'),
 		$wrapper = $('#wrapper'),
-		$header_video = $('#header_video'),
-		$video = $header_video[0],
-		$video_wrapper = $('#video_wrapper'),
 		$header = $('#header'),
 		$nav = $('#nav'),
 		$main = $('#main'),
@@ -30,6 +27,9 @@
 
 	// Intro.
 		var $intro = $('#intro');
+
+		var $header_video = $('#header_video'),
+		$video = $header_video[0];
 
 		if ($intro.length > 0) {
 
@@ -92,7 +92,7 @@
 			// Fade audio in and out on header click
 				$(document).ready(function() { 
 					
-					$video_wrapper.click(function() { 
+					$wrapper.click(function() { 
 						
 						if ($header_video.prop("muted")) {
 							$header_video.prop("volume", 0);
