@@ -8,6 +8,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 enableRobotsTXT = true
 canonifyURLs = true
 defaultContentLanguage = "et"
+footnotereturnlinkcontents = "<sup></sup>"
 
 [Author]
   name = "Märt Põder"
@@ -28,6 +29,17 @@ defaultContentLanguage = "et"
      featuredPost = false
      paginationPages = 2
      showFirstLast = false
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+  [markup.highlight]
+    codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
  
 [languages]
 [languages.et]
